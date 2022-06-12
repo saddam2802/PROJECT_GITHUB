@@ -1,0 +1,2 @@
+user.name=saddam2802-digitalskola
+user.email=muhammad.saddam.alkindy@gmail.com
